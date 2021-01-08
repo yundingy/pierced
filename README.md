@@ -37,7 +37,3 @@ ding -config=ding.cfg -subdomain=abcde 8080
 第三步：测试
 启动完客户端后，你访问http://abcde.vaiwan.com/xxxxx都会映射到 http://127.0.0.1:8080/xxxxx
 
-作者：阿涩_d210
-链接：https://www.jianshu.com/p/4e4f6c8d31e0
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
